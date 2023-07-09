@@ -24,7 +24,6 @@ for x in range(num-1):
             j-=2
     l[i][j]=x+2
 print("3*3 Magic Square:")
-print(numpy.matrix(l))
-       
+print(numpy.matrix(l))       
             
                 
